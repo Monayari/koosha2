@@ -1,0 +1,7 @@
+{
+    "name": "raha/koosha",
+    "description": "test",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
